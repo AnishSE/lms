@@ -1,0 +1,14 @@
+{
+    "APP_URL": "http://localhost:3002/",
+    "FRONTEND_URL": "",
+    "APP_NAME" : "SnapApp",
+    "mongo_password" : "FLUrjJ7R0KtJNdgD",
+    "PORT": 3002,
+    "key":"WinterIsComing",
+    "mongoURI": "mongodb+srv://snapapp-dev:FLUrjJ7R0KtJNdgD@cluster0.uwk9g.mongodb.net/test",
+    "dbName": "snapapp-dev",
+    "JWT"   :{
+        "SECRET":"6dcc80c4cc5b3daa1483ae96fb449235",
+        "TOKENTIME":"365 days"
+    }
+}
